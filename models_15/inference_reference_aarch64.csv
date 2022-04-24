@@ -1,0 +1,4 @@
+MODEL INFERENCE_TIME
+densenet_121_224_quant_edgetpu.tflite 25
+resnet_50_224_quant_edgetpu.tflite 56
+vgg16_224_quant_edgetpu.tflite 343

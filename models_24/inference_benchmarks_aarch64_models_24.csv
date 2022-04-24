@@ -1,0 +1,5 @@
+MODEL INFERENCE_TIME
+inception_v3_299_quant_edgetpu.tflite 61.10143913000229
+mobilenet_v2_1.0_224_quant_edgetpu.tflite 8.915263895000862
+resnet_50_224_quant_edgetpu.tflite 61.77243650499804
+vgg16_224_quant_edgetpu.tflite 345.1747090000026
